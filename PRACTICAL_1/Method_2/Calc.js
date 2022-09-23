@@ -4,12 +4,12 @@ export const add = (a,b) => {
     let sum = a+b;
     return ("Addition Is : "+sum);
 }
-
+   
 
 // Subtraction
 
 export const sub = (a,b) => {
-    let diff = a-b;
+    let diff = a-b; 
     return ("Subtraction Is : "+diff);
 }
 

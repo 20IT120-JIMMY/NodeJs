@@ -6,7 +6,7 @@
 // const div = require('../PRACTICAL_1/Method_1/div.js')
 
 // const log = console.log;
-// // log((process.argv))
+// // log((process.argv)) 
 
 // let a = Number(process.argv[2]) , b = Number(process.argv[3]);
 // log(add(a,b))
@@ -15,7 +15,7 @@
 // log(div(a,b))
 
 
-// Method 2
+// Method -- 2
 
 import {add , sub , mul ,div} from "./Method_2/Calc.js" ;
 
