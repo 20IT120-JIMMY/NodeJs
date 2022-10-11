@@ -28,3 +28,5 @@ log(sub(a,b))
 log(mul(a,b))
 log(div(a,b))
 
+// run by ==> node index.js a b
+
